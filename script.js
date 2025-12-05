@@ -64,6 +64,7 @@ const messages = [
     "please?",
     "wow so u hate me",
     "nooooo pleaseeeee",
+    "ill be nice im sorry",
     "(╥﹏╥)"
 ];
 
