@@ -63,7 +63,7 @@ const messages = [
     "ill behave promise",
     "please?",
     "wow so u hate me",
-    "nooooo pleaseeeee",
+    "nooooo pleaseeee",
     "ill be nice im sorry",
     "(╥﹏╥)"
 ];
