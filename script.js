@@ -60,7 +60,7 @@ const messages = [
     "please please please",
     "ill buy u matcha :)",
     ":(((",
-    "HUHUHU",
+    "ill behave promise",
     "please?",
     "wow so u hate me",
     "nooooo pleaseeeee",
